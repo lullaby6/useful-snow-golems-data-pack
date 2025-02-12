@@ -3,6 +3,7 @@
     "values": [
         "#minecraft:raiders",
         "#minecraft:skeletons",
+        "minecraft:vex",
         "minecraft:zombie",
         "minecraft:husk",
         "minecraft:drowned",
@@ -12,7 +13,6 @@
         "minecraft:ender_dragon",
         "minecraft:wither",
         "minecraft:warden",
-        "minecraft:evoker",
         "minecraft:illusioner",
         "minecraft:slime",
         "minecraft:magma_cube",
