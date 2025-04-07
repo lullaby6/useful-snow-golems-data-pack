@@ -29,6 +29,8 @@
         "minecraft:piglin_brute",
         "minecraft:shulker",
         "minecraft:silverfish",
-        "minecraft:witch"
+        "minecraft:witch",
+        "minecraft:spider",
+        "minecraft:cave_spider"
     ]
 }
