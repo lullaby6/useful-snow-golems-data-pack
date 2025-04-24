@@ -11,30 +11,6 @@
 
 Now snow golems do real damage to hostile mobs!
 
-Version: `1.21.X`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
-
-## ⌨️ Commands
-
-Disable:
-
-```mcfunction
-/datapack disable "file/useful-snow-golems.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/useful-snow-golems.zip"
-```
-
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/useful-snow-golems-data-pack/blob/main/LICENSE)
+[AGPLv3](https://github.com/lullaby6/useful-snow-golems-data-pack/blob/main/LICENSE)
